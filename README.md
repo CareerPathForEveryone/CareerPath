@@ -58,6 +58,10 @@ Optional:
 
 ## Wireframes
 
+![photos](https://user-images.githubusercontent.com/89495809/155232557-07575334-2ee0-4bb4-a35f-183ff0b6eea2.jpg)
+
 ## Digital Wireframes and Mockup
+
+
 
 ## [Bonus] Interactive Prototype
