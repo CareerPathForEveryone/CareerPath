@@ -62,6 +62,6 @@ Optional:
 
 ## Digital Wireframes and Mockup
 
-
+<img width="281" alt="Screen Shot 2022-02-22 at 7 44 08 PM" src="https://user-images.githubusercontent.com/89495809/155244185-fe99dbcb-2912-488c-86f8-996e898c1dbe.png">
 
 ## [Bonus] Interactive Prototype
