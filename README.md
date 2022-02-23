@@ -65,3 +65,5 @@ Optional:
 <img width="281" alt="Screen Shot 2022-02-22 at 7 44 08 PM" src="https://user-images.githubusercontent.com/89495809/155244185-fe99dbcb-2912-488c-86f8-996e898c1dbe.png">
 
 ## [Bonus] Interactive Prototype
+
+https://user-images.githubusercontent.com/89495809/155262107-c8666fb4-3baf-466b-9973-e432288c82c1.mov
