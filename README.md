@@ -97,28 +97,28 @@ Chats
 **List Of Network Requests by Screen**
 
 * Survey Screen
-   * (Read/GET) - Retrieve all news categories
+   * (Read/GET) - Retrieve all questions needed to be answered
+   * (Send/POST) - Send information by answering the questions
+   * (update/PUT) - update user answers to survey
 * Chats screen
    * (Read/GET) - Existing Chat
    * (Create/POST) - Create a new chat comment
    * (Delete) - Delete existing chat comment
 * Feed/Home Screen
-   * (Read/GET) - Headlines / current event posts
-   * (Read/GET) - Chats
-   *  (Read/GET) - Comments
-* News Article Screen
+   * (Read/GET) - Career Path matching user interest
+   * (Read/GET) - Chart of interest
+   *  (Read/GET) - Retake survey
+* Career Path Screen
    * (Read/GET) - Article post
    * (Read/GET) - Comments for on articles
-   * (Read/GET) - chats attached to articles
-   * (Delete) - Delete existing article chat comment
-   * (Create/POST) - Create a new article chat comment
+   * (Read/GET) - chats created by user to talk to advisors
 * Settings Screen
    * (Read/GET) Query logged in user object
    * (Update/PUT) Update user profile image
 
-An Api for Current News:
+An Api for College information:
 
-* Base Url - https://newsapi.org
+* Base Url - http://api.data.gov/ed/collegescorecard/
 
 | HTTP Verb | Endpoint | Description |
 | -------------- | --------- | ---- |
