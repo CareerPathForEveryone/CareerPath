@@ -122,7 +122,7 @@ An Api for College information:
 
 | HTTP Verb | Endpoint | Description |
 | -------------- | --------- | ---- |
-| GET  | /v2/top-headlines | returns breaking news headlines for countries, categories, and singular publishers.|
+| GET  | /v1/schools | returns breaking news headlines for countries, categories, and singular publishers.|
 | GET | /v2/top-headlines/sources | returns information (including name, description, and category) about the most notable sources available for obtaining top headlines from.|
 | GET | /v2/top-headlines?country=us&category=business | top business headlines |
 | GET | /v2/top-headlines?country=us&category=entertainment | top entertainment headlines |
