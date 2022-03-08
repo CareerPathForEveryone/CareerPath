@@ -132,5 +132,6 @@ An Api for College information:
 | GET | /v2/top-headlines?country=us&category=science | top science headlines |
 | GET | /v2/top-headlines?country=us&category=technology | top technology headlines |
 
-##Milestone 3
+## Milestone 3
+
 https://user-images.githubusercontent.com/89495809/157316828-45befee5-5e03-4e48-b841-640b9db4804e.mov
