@@ -6,7 +6,7 @@
 3. [Wireframes](##Wireframes)
 4. [Schema](##Schema)
 5. [Networking](##Networking)
-6. [Milestone1](##Milestone 3)
+6. [Milestone](##Milestone3)
 
 ## Overview
 
