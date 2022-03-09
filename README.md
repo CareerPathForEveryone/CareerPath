@@ -71,6 +71,10 @@ Optional:
 
 https://user-images.githubusercontent.com/89495809/155262107-c8666fb4-3baf-466b-9973-e432288c82c1.mov
 
+## Database GIF
+![Database GIF](https://user-images.githubusercontent.com/61022550/157362144-e8125a65-94de-4d0f-8146-0ecf79d76fc8.gif)
+
+
 ## Schema
 **Models**
 
