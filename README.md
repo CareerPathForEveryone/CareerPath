@@ -147,5 +147,5 @@ Attached is a document that we found that we could use to conduct our survey and
 [Career_Interest_Survey.pdf](https://github.com/CareerPathForEveryone/CareerPath/files/8258640/Career_Interest_Survey.pdf)
 
 
-We could not figure out how to get the college names up as of yet but here is the code we have for it so far.
+We could not figure out how to get the college names up as of yet but here is the code we have for it so far. Also there were no pages to link at this time since we could not get the cards to work.
 https://user-images.githubusercontent.com/89495809/158510268-411ff722-eebc-41bb-b668-643322a5a40d.mov
